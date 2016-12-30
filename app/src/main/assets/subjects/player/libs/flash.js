@@ -1,0 +1,1 @@
+function SWF(){var el = document.querySelector("body");  el.style.margin = "0"; el.style.position = "fixed"; el.style.width = "100%";el.style.height = "100%";var el2 = document.getElementById("canvas"); el2.style.width = "100%"; el2.style.height = "100%";}

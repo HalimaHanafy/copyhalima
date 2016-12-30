@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.0_14d97f3395b0a5802517f01efde503450414814c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_ae15d834c1d287f03650b09ba5a54da0149dd58b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/ADTLinux_x86_64/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_9c424619619b2ced9db35b08ab3fab124ce5f36b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_e98d829f91d349faeae1f5851f1ba1e3ab5b0f42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/libs/MyDownloadLib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7882cd9b6b9af9faabd79e53793a3d38ecdbb3c">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/MyDownloadLib_f7854938e60a60bd2f0316df7b00dfe53da5760a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_3d9b500c3b7283d4455322181f7e756f3fd6aa81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_409a0303fd88b15dc650031b4c8a7efe1f6d6f80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_11104727193be6871839fc4145f7d6d7ef414bc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_7f4e3f665efdddcf563272ec098978aced463d69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/halimahanafy/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk16/1.45/612d4afcd33f05a5ffdd9cf835e3bd4e3b44018/bcprov-jdk16-1.45.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0612d4afcd33f05a5ffdd9cf835e3bd4e3b44018">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/bcprov-jdk16-1.45_e868cf9b0f3a5ed46576247554eddf46dd9b9f60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.0_be883da977e45d49589b7f94c98d9f768fce608c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4d237d317734e8a8e7d908dbbea141b025e99c28">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d73ea21ddf6cc0768aaae026499f6ff952673d0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_2507ca0fb947fb6caa2ad34a5f5e9448302b1522.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_553355fcfe6dea511cd3f22c3e8816fb504e5502.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_d834bff6d76bd27460fe0af7d12f913c0d0ae732.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/20.50.533.12/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2978c7fc3cc62ca7cec2ed3a2912419f96429ecd">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/org.xwalk-xwalk_core_library-20.50.533.12_23c50b28a28b20a35e619e82c8809cfc08c579c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_d9668cf9bcbbef618f302acdf93da2f176a23bc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="712796c84800aa3cace1f214160f0fc57562cda9">
+        <dex dex="/media/halimahanafy/LinuxFiles/KASSSSSSSS/CopyHalima/app/build/intermediates/pre-dexed/debug/instant-run_6eba4ad0b4844603df13590a966627955c6c846e.jar" />
+    </item>
+
+</items>

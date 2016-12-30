@@ -1,0 +1,143 @@
+@media (max-width:1199px)  {
+     .screen {
+        width: 970px;
+        height: 512px;
+    }
+    .stage{
+         height: calc(100% - 110px);
+    }
+    .content {
+        width: 100%;
+        height: 100%;
+        /*border: none;*/
+        margin: 0;
+    } 
+    header{
+        margin-bottom: 5px;
+    }
+    
+    header .lesson_name .dropdown-toggle {
+        line-height: 20px;
+    }
+    header .lesson_name {
+        height: 40px;
+        border-width: 2px 5px;
+    }
+    header .lesson_name .curr_lesson {
+        font-size: 18px;
+        line-height: 18px !important;
+    } 
+    .menu_nav {
+        top: calc(50% - 120px);
+        width: 130px;
+    }
+    .menu_nav ul li > a {
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .r_triangle_border::before,
+    .l_triangle_border::after {
+        border-width: 10px 2px 29px;
+        bottom: -4px;
+    }
+    .lesson_name.r_triangle_border::before,
+    .lesson_name.l_triangle_border::after {
+        bottom: -2px;
+        border-width: 10px 2px 29px;
+    }
+    header .lesson_name .all_lessons {
+        max-height: 297px;
+    }
+}
+
+@media (max-width:991px) {
+    .screen {
+        width: 750px;
+        height: 404px;
+    }
+    .stage{
+         height: calc(100% - 74px);
+    }
+    footer{
+        margin-top: 5px;
+    }
+    header .lesson_name .all_lessons {
+        max-height: 263px;
+    }
+    header,
+    footer {
+        height: 32px;
+    }
+    .head_control {
+        margin: 0;
+    }
+    .icon {
+        font-size: 16px;
+        height: 26px;
+        line-height: 26px;
+        width: 26px;
+    }
+    header .head_control li,
+    footer li {
+        margin: 3px 4px;
+    }
+    header .lesson_name .curr_lesson {
+        font-size: 16px;
+        line-height: 16px !important;
+    }
+    header .lesson_name {
+        height: 32px;
+        border-width: 1px 3px;
+    }
+    header .lesson_name {
+        line-height: 14px;
+        font-size: 14px;
+    }
+    .menu_nav {
+        top: calc(50% - 95px);
+        width: 90px;
+    }
+    .menu_nav ul li > a {
+        font-size: 17px;
+        line-height: 17px;
+        padding: 7px;
+    }
+    .menu_nav ul li {
+        border: 1px solid #0b4b7f;
+        margin-bottom: 1px;
+    } 
+    footer .l_triangle_border::after,
+    footer .r_triangle_border::before {
+        border-width: 24px 1px 20px;
+        top: -5px;
+    }
+    .r_triangle_border::before,
+    .l_triangle_border::after {
+        border-width: 10px 1px 22px;
+        bottom: 2px;
+    }
+    header li.r_triangle_border::before {
+        border-width: 7px 1px 22px;
+        bottom: -5px;
+        left: calc(100% + 3px);
+    }
+    header li.l_triangle_border::after {
+        border-width: 7px 1px 22px;
+        bottom: -5px;
+        left: -6px;
+    }
+    .lesson_name.r_triangle_border::before,
+    .lesson_name.l_triangle_border::after {
+        border-width: 10px 2px 20px;
+        bottom: -3px;
+    }
+    .full_screen.l_triangle_border::after ,.submenu_control.l_triangle_border::after{
+        left: 0px;
+    }
+    .numbering {
+        line-height: 20px;
+        font-size: 15px;
+    }
+} 
+
+ 

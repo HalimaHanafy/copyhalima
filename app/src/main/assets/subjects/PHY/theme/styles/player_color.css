@@ -1,0 +1,80 @@
+body{
+    background-color: #083e41 !important;
+}
+/* header and footer bg color ( main color )*/
+header,footer{
+    background-color: #19787c;
+}
+/* main text color ( main color )*/
+.icon,.all_lessons > li.current > a,a.icon:focus, a.icon:hover{
+    color: #19787c;
+}
+/* main borders ( main color ) */
+.lesson_name,.play,footer ul li.center_icon,header .lesson_name button:nth-child(2){
+    border-color: #19787c !important;
+}
+/* border of content */
+.borderimg ,.content{
+    border-color: #19787c !important;
+}
+/* lesson title cart ( two  very light  color of main color )*/
+header .lesson_name button:nth-child(2) {
+    background: rgba(0, 0, 0, 0) linear-gradient(#d9eeef,#d9eeef) repeat scroll 0 0 !important;
+}
+/* lessons titles */
+.all_lessons > li > a{
+     background-color: #8bcc8e ;
+}
+.icon {
+    background: rgba(0, 0, 0, 0) linear-gradient(#f2ecbc, #e1ddbd) repeat scroll 0 0}
+.menu_nav ul li:not(.dimmed):not(.active) > a {
+    color: #e9d19e;
+}
+.all_lessons > li > a {
+    background-color: #d9eeef;
+    border-color:  #19787c;
+}
+.all_lessons > li.current > a {
+    background-color: #e6e2bd !important}
+.all_lessons > li > a:focus, .all_lessons > li > a:hover {
+    background-color: #fff;
+}
+/* sub menu css ( main color  & light color  of main color) */
+.menu_nav ul li > a {
+  background: #19787c;
+    /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(right top, #368e92,#19787c);
+    /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom left, #368e92,#19787c);
+    /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom left, #368e92,#19787c);
+    /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom left, #368e92,#19787c);
+    /* Standard syntax */
+}
+/* (dark color of the main color )*/
+.menu_nav ul li.active > a {
+    box-shadow: 0 0 20px 15px #07393b inset;
+    border-color: #e6e1bd;
+    color: #fff;
+}
+
+.menu_nav ul li{
+    border: 2px solid #19787c;
+}
+.modal-body {
+    background: #d6d5d5;
+}
+.screen{
+    box-shadow: 0 0 45px 0 #19787c;
+}
+.real_body {
+    border: 2px solid #19787c;
+}
+
+/*borders*/
+ 
+ 
+/*english #fbad18 #661b43 #7F305A #d9b9ca #f8f2f5 */
+/*bio(blue)#002e4f  #004a80  #dce6ee  #055996, #0b4b7f cart #dce6ee border #AEAEAE */
+/*eslamic main #19787c light #39914c dark #1d502d another c #7dbc85 light #8bcc8e */
